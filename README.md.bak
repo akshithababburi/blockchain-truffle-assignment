@@ -4,7 +4,7 @@
 2) Initialize the project by "truffle init" and it will create a project structure
 3) I have created a new contract by name "Helloworld.sol" and "HelloWorldPermanent.sol"
 4) I have created a second file in migrations directory by name "2_hello_world_migration.js" which is needed for our contracts deployment
-5) Check the compilation erros by typing "truffle compile"
+5) check the compilation erros by typing "truffle compile"
 6) Enter into truffle console by typing "truffle develop"
 7) Deploy locally using the command "truffle migrate"
 
@@ -17,6 +17,6 @@
 5) I have signed up for ethereum main net on "https://infura.io/"
 6) I have changed the truffle-config.js to include the hd wallet, infura api key and goerli provider
 7) I have got faucet Eth from "https://ethdrop.dev/"
-8) Finally I have deployed my contract to the ethereum network by running the following command "truffle migrate --network goerli"
+8) finally I have deployed my contract to the ethereum network by running the following command "truffle migrate --network goerli"
 
 You can check my contract on the ethereum network by going to "https://goerli.etherscan.io/address/0x8cd41a02af5ef159ad5b4c8d7544b8bc65aaabe0"
