@@ -13,7 +13,7 @@
 1) I have used infura and followed the document at "https://docs.infura.io/infura/tutorials/ethereum/deploy-a-contract-using-truffle"
 2) inorder to use the hard wallet, I have installed the hdwallet-provider by typing "npm install @truffle/hdwallet-provider"
 3) I have created the .env file in the project to add the INFURA API Key and Mnemoic 
-4) The menomic key is retreived by typing "npx mnemoic"
+4) The menomic key is retreived by typing "npx mnemonics"
 5) I have signed up for ethereum main net on "https://infura.io/"
 6) I have changed the truffle-config.js to include the hd wallet, infura api key and goerli provider
 7) I have got faucet Eth from "https://ethdrop.dev/"
